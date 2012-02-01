@@ -1,0 +1,12 @@
+This is program is the result of going through a Qt tutorial from http://doc.trolltech.com/4.3/tutorial.html.
+
+This is a cannon game.
+
+To compile:
+qmake -project
+qmake
+make OR make Makefile.Release
+
+To run:
+./debug/cannon.exe OR ./release/cannon.exe
+
